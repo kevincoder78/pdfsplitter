@@ -24,4 +24,6 @@ The script requires the PDFtk library to be installed on your server. This libra
 
 The "split_pdf.php" file should be uploaded to your server in order to use the script. Once uploaded, you can simply navigate to that file in your web browser to access the form and start splitting PDF pages.
 
-We hope this PHP script helps you to easily split PDF pages on your server! You can thanks to the owner <a href="https://randompokemongenerator.io/">Kevin</a>
+We hope this PHP script helps you to easily split PDF pages on your server! 
+
+You can thanks to the owner <a href="https://randompokemongenerator.io/">Kevin</a>
